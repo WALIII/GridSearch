@@ -1,2 +1,2 @@
 # GridSearch
-Using the grid mains to sync embedded systems with high precision
+Exploit grid mains noise/artifacts to get precise synchronization across embedded systems.
